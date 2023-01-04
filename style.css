@@ -96,7 +96,7 @@ header.sticky{
 }
 
 .home{
-    background:url(home-bg.jpg) no-repeat;
+    background:url(./images/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -186,7 +186,7 @@ header.sticky{
 }
 
 .symptoms{
-    background:url(background-img.jpg) no-repeat;
+    background:url(./images/background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -274,7 +274,7 @@ header.sticky{
 }
 
 .doctor{
-    background:url(background-img.jpg) no-repeat;
+    background:url(./images/background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -373,7 +373,7 @@ header.sticky{
 }
 
 .footer{
-    background:url(background-img.jpg) no-repeat;
+    background:url(./images/background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
